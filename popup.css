@@ -1,0 +1,31 @@
+
+body {
+  width: 400px; /* Set the width of the popup */
+}
+
+.popup-content {
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th {
+  background-color: aquamarine;
+  color: brown;
+}
+.Remove {
+  color: red;
+}
+table,
+th,
+td {
+  border: 1px solid #ccc;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+}
